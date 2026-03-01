@@ -2,6 +2,11 @@
 
 A Python-based GUI application that automatically generates SRT subtitle files from video or audio files. It transcribes speech using Google Speech Recognition and translates the text into a target language using Google Translate, with an optional manual editing step.
 
+'Operation System:'
+
+       - It supports both Windows (exe) and Debian (deb). Anyone can download it on both operating systems.
+
+
 ## Features
 
 - Supports various audio/video formats via FFmpeg (e.g., MP3, WAV, MP4, AVI, MKV)
